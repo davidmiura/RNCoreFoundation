@@ -1,0 +1,8 @@
+{
+  "name": "react-native-core-foundation",
+  "version": "0.0.1",
+  "description": "React Native Core Foundation Template",
+  "repository": "git@github.com:asdf/react-native-core-foundation-template.git",
+  "author": "David Miura <davidmiura@gmail.com>",
+  "license": "MIT"
+}
